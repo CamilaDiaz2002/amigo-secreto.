@@ -18,3 +18,4 @@ Descarga el archivo y lo descombrimes, luego abre la carpeta y seleccionas el ar
 - **[Camila Diaz]** - [Github: https://github.com/CamilaDiaz2002]
 
 
+ #AluraLatam #oraclenexteducation
